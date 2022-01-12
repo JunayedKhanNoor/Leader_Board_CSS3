@@ -152,3 +152,32 @@ hr {
   }
   
 }
+/* --------------------
+    Header Stylesheet
+    -------------------- */
+    header{
+      background-color: #562EFF;
+      height: 90px;
+      padding: 10px;
+     
+    }
+     nav{ 
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      
+    }
+     nav img{ 
+      height: 51px;
+      width: 45px;
+      position: relative;
+      top: 20px;
+    }
+    nav a{
+      text-decoration: none;
+      color: #FFFFFF;
+      font-size: 24;
+      font-weight: 500;
+      margin-left: 15px;
+    }
+
